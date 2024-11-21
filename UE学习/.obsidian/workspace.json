@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aa276de1af651e6c",
+        "id": "5255218b42a90a43",
         "type": "tabs",
         "children": [
           {
-            "id": "686fd593b414d167",
+            "id": "4baa37a38f4c6518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "蓝图/未命名.md",
-                "mode": "preview",
+                "file": "蓝图/UI与Actor 通信.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "UI与Actor 通信"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "蓝图/未命名.md",
+                "file": "蓝图/UI与Actor 通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "UI与Actor 通信 的反向链接列表"
             }
           },
           {
@@ -162,10 +162,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "686fd593b414d167",
+  "active": "4baa37a38f4c6518",
   "lastOpenFiles": [
+    "附件/未命名图片.png",
+    "附件/1.png",
+    "蓝图/UI与Actor 通信.md",
+    "附件/Pasted image 20241121092739.png",
+    "蓝图/Subsystem使用.md",
+    "附件/Pasted image 20241121091504.png",
+    "附件/Pasted image 20241121091431.png",
+    "附件/Pasted image 20241121091044.png",
+    "附件/Pasted image 20241121090902.png",
+    "蓝图/特效控制.md",
+    "蓝图/输入模式.md",
+    "蓝图/视角与移动方向.md",
+    "蓝图/创建对象.md",
+    "蓝图/流程控制相关函数.md",
+    "蓝图/调试信息的方法.md",
+    "蓝图/Actor信息拦截.md",
+    "蓝图/蓝图的信息传递.md",
+    "蓝图/加载本地保存的数据.md",
+    "附件/Pasted image 20241121084357.png",
+    "创建链接.md",
     "欢迎.md",
-    "蓝图/未命名.md",
+    "附件/Pasted image 20241121083224.png",
+    "附件",
     "蓝图"
   ]
 }
