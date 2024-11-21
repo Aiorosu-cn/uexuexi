@@ -1,7 +1,7 @@
 
 # subsystem的蓝图子类
 
-subsystem子类必须是C++声明，但是修改就比较麻烦，所以一般可以C++声明抽象类且蓝图可以调用，然后用蓝图继承此subsystem使用
+subsystem子类必须是C++声明，但是修改就比较麻烦，所以一般可以C++声明抽象类，然后用蓝图继承此subsystem使用
 ![[Pasted image 20241121091044.png]]
 
 然后就可以直接创建subsystem蓝图子类

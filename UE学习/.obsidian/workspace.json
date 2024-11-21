@@ -13,13 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "蓝图/UI与Actor 通信.md",
+                "file": "UI/UI常见基本功能.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UI与Actor 通信"
-            }
+              "title": "UI常见基本功能"
+            },
+            "group": "1b926dd87bc7c722"
+          }
+        ]
+      },
+      {
+        "id": "e79181c0d62b004a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cd552f405d4f88e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UI/UI常见基本功能.md"
+              },
+              "icon": "lucide-list",
+              "title": "UI常见基本功能 的大纲"
+            },
+            "group": "1b926dd87bc7c722"
           }
         ]
       }
@@ -162,30 +182,41 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4baa37a38f4c6518",
+  "active": "9cd552f405d4f88e",
   "lastOpenFiles": [
-    "附件/未命名图片.png",
-    "附件/1.png",
+    "附件/Pasted image 20241121101322.png",
+    "附件/Pasted image 20241121101135.png",
+    "附件/Pasted image 20241121101015.png",
+    "附件/Pasted image 20241121101002.png",
+    "附件/Pasted image 20241121100929.png",
+    "附件/Pasted image 20241121100746.png",
+    "UI/HUD控制UI.md",
+    "UI/UI常见基本功能.md",
+    "附件/Pasted image 20241121100532.png",
+    "UI/为什么UI外面要套个box.md",
+    "UI/UI初始化顺序.md",
+    "蓝图/相机与视角切换.md",
+    "UI",
+    "蓝图/事件与函数区别.md",
+    "蓝图/蓝图接口.md",
+    "附件/Pasted image 20241121100117.png",
+    "附件/Pasted image 20241121095924.png",
+    "附件/Pasted image 20241121095854.png",
+    "附件/Pasted image 20241121095836.png",
+    "蓝图/Get对象和valid结合的蓝图.md",
     "蓝图/UI与Actor 通信.md",
-    "附件/Pasted image 20241121092739.png",
     "蓝图/Subsystem使用.md",
-    "附件/Pasted image 20241121091504.png",
-    "附件/Pasted image 20241121091431.png",
-    "附件/Pasted image 20241121091044.png",
-    "附件/Pasted image 20241121090902.png",
+    "蓝图/Actor信息拦截.md",
     "蓝图/特效控制.md",
     "蓝图/输入模式.md",
     "蓝图/视角与移动方向.md",
     "蓝图/创建对象.md",
     "蓝图/流程控制相关函数.md",
     "蓝图/调试信息的方法.md",
-    "蓝图/Actor信息拦截.md",
     "蓝图/蓝图的信息传递.md",
     "蓝图/加载本地保存的数据.md",
-    "附件/Pasted image 20241121084357.png",
     "创建链接.md",
     "欢迎.md",
-    "附件/Pasted image 20241121083224.png",
     "附件",
     "蓝图"
   ]
