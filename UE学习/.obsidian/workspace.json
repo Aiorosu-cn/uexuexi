@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UI/UI常见基本功能.md",
+                "file": "UI/HUD控制UI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UI常见基本功能"
+              "title": "HUD控制UI"
             },
             "group": "1b926dd87bc7c722"
           }
@@ -34,10 +34,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UI/UI常见基本功能.md"
+                "file": "UI/HUD控制UI.md"
               },
               "icon": "lucide-list",
-              "title": "UI常见基本功能 的大纲"
+              "title": "HUD控制UI 的大纲"
             },
             "group": "1b926dd87bc7c722"
           }
@@ -182,8 +182,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9cd552f405d4f88e",
+  "active": "587b600db6e9d781",
   "lastOpenFiles": [
+    "UI/UI常见基本功能.md",
     "附件/Pasted image 20241121101322.png",
     "附件/Pasted image 20241121101135.png",
     "附件/Pasted image 20241121101015.png",
@@ -191,7 +192,6 @@
     "附件/Pasted image 20241121100929.png",
     "附件/Pasted image 20241121100746.png",
     "UI/HUD控制UI.md",
-    "UI/UI常见基本功能.md",
     "附件/Pasted image 20241121100532.png",
     "UI/为什么UI外面要套个box.md",
     "UI/UI初始化顺序.md",
@@ -202,7 +202,6 @@
     "附件/Pasted image 20241121100117.png",
     "附件/Pasted image 20241121095924.png",
     "附件/Pasted image 20241121095854.png",
-    "附件/Pasted image 20241121095836.png",
     "蓝图/Get对象和valid结合的蓝图.md",
     "蓝图/UI与Actor 通信.md",
     "蓝图/Subsystem使用.md",
